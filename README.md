@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Mateus Fonteles, and I'm a Brazilian programmer! 
 
-- 🔭 I’m currently working on Wordpress development and digital marketing. 
+- 🔭 I’m currently working as a freelancer with Wordpress development and digital marketing. 
 - 🌱 I’m currently learning Game development with Unity and Data Science with Phyton.
 - 👯 I’m looking to collaborate on Game Development, and environmental causes. 
 - 🤔 I’m looking for help with Learning Wordpress, Unity and Data Science. 
